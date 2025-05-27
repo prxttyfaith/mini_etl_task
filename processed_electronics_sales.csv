@@ -1,0 +1,9 @@
+sale_id,product_name,category,total_revenue,sale_date,region
+1,Laptop Pro,Electronics,6000.0,2023-01-15,North
+2,Desktop Max,Electronics,3000.0,2023-01-16,North
+4,Wireless Mouse,Electronics,625.0,2023-01-18,West
+6,Laptop Pro,Electronics,3600.0,2023-01-19,South
+8,Keyboard Pro,Electronics,1125.0,2023-01-20,East
+10,Desktop Max,Electronics,1500.0,2023-01-22,South
+12,USB-C Hub,Electronics,1200.0,2023-01-23,West
+14,Laptop Pro,Electronics,4800.0,2023-01-25,North
